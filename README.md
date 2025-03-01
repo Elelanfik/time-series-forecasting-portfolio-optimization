@@ -62,24 +62,5 @@ This repository contains the implementation of **time series forecasting models*
 - **TensorFlow/Keras** – LSTM model implementation  
 - **Scipy & CVXPY** – Portfolio optimization  
 
-## 📌 Key Insights & Results  
-- **Tesla (TSLA)** shows high volatility, requiring risk management strategies  
-- **BND (Bonds)** acts as a stabilizing asset in the portfolio  
-- **SPY (S&P 500 ETF)** provides market-wide exposure with moderate risk  
-- **Portfolio optimization** improves risk-adjusted returns using Sharpe Ratio  
-
-## 📝 Reports & Documentation  
-- **Interim Report**: Covers data preprocessing & EDA  
-- **Final Report**: Includes forecasting, optimization, and portfolio insights  
-- **Blog Post (Medium)**: Summary of findings & key takeaways  
-
-## 🤝 Contributors  
-👤 **[Your Name]** – Data Scientist | AI Researcher  
-📧 Contact: your-email@example.com  
-
-## 🌟 Acknowledgments  
-- **10 Academy** for organizing this AI Mastery Challenge  
-- **Tutors: Mahlet, Rediet, Kerod, Elias, Emitinan, Rehmet** for their guidance  
-
 ## 📜 License  
 This project is open-source and available under the **MIT License**.  
